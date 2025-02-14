@@ -32,5 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 
-./productService/data
-./orderService/mysql
+./productService/data/
+./orderService/mysql/

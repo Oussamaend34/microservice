@@ -33,3 +33,4 @@ build/
 .vscode/
 
 ./productService/data
+./orderService/mysql

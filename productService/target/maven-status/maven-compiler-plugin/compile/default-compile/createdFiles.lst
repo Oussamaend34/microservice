@@ -1,0 +1,6 @@
+com/ensah/microservices/product/repository/ProductRepository.class
+com/ensah/microservices/product/ProductServiceApplication.class
+com/ensah/microservices/product/model/ProductRequest.class
+com/ensah/microservices/product/controller/ProductController.class
+com/ensah/microservices/product/model/Product.class
+com/ensah/microservices/product/model/Product$ProductBuilder.class

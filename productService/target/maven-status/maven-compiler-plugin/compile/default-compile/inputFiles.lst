@@ -1,0 +1,6 @@
+/Users/alaoui/Projects/my_project/src/main/java/com/ensah/microservices/product/ProductServiceApplication.java
+/Users/alaoui/Projects/my_project/src/main/java/com/ensah/microservices/product/controller/ProductController.java
+/Users/alaoui/Projects/my_project/src/main/java/com/ensah/microservices/product/model/Product.java
+/Users/alaoui/Projects/my_project/src/main/java/com/ensah/microservices/product/model/ProductRequest.java
+/Users/alaoui/Projects/my_project/src/main/java/com/ensah/microservices/product/repository/ProductRepository.java
+/Users/alaoui/Projects/my_project/src/main/java/com/ensah/microservices/product/service/ProductService.java

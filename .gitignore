@@ -34,3 +34,4 @@ build/
 
 /productService/data/
 /orderService/mysql/
+/inventoryService/mysql/

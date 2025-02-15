@@ -16,9 +16,8 @@ public class OrderService {
     private final OrderMapper orderMapper;
     private final OrderDTOMapper orderDTOMapper;
 
-    public Order palceOrder(OrderDTO request) {
+    public void placeOrder(OrderDTO request) {
         Order order = orderDTOMapper.apply(request);
-
-        return null;
+        orderRepository.save(order);
     }
 }

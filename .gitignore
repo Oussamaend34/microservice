@@ -35,3 +35,6 @@ build/
 /productService/data/
 /orderService/mysql/
 /inventoryService/mysql/
+/apiGateway/mysql/
+/apiGateway/docker/
+

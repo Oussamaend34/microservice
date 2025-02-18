@@ -15,7 +15,8 @@ public class OrderMapper implements Function<Order, OrderDTO> {
                 order.getOrderNumber(),
                 order.getSkuCode(),
                 order.getPrice(),
-                order.getQuantity()
+                order.getQuantity(),
+                "email"
         );
     }
 }

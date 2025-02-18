@@ -7,6 +7,7 @@ public record OrderDTO(
         String orderNumber,
         String skuCode,
         BigDecimal price,
-        Integer quantity
+        Integer quantity,
+        String email
         ) {
 }

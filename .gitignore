@@ -37,4 +37,4 @@ build/
 /inventoryService/mysql/
 /apiGateway/mysql/
 /apiGateway/docker/
-
+/apiGateway/data/

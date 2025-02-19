@@ -24,8 +24,10 @@ public class OrderService {
 
     public void placeOrder(OrderDTO request) {
         System.out.println("placing order");
+        System.out.println("request: " + request.skuCode() + request.quantity());
         boolean inStock = inventoryClient.isInStock(request.skuCode(), request.quantity());
         System.out.println("In stock: " + inStock);
+
         if (inStock) {
             Order order = orderDTOMapper.apply(request);
             orderRepository.save(order);
